@@ -17,6 +17,7 @@ Alur kerja sistem mengikuti standar pemrosesan data teks ilmiah:
 - **Skenario:**
   - Unbalanced (Proporsi asli 2:1).
   - Balanced (Proporsi seimbang 1:1).
+- **Unduh:** [Dataset](https://drive.google.com/file/d/1I_X1VKekoi-K8GuuIbBViu1jUipxJeJP/view?usp=sharing)
 ### 📈 Hasil Eksperimen
 Berdasarkan pengujian, diperoleh hasil performa metrik sebagai berikut:
 
